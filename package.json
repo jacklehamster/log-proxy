@@ -2,7 +2,7 @@
   "name": "log-proxy",
   "module": "src/index.ts",
   "description": "<fill in description>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "bun",
     "bunjs",
