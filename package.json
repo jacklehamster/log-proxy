@@ -2,7 +2,7 @@
   "name": "@dobuki/log-proxy",
   "module": "src/index.ts",
   "description": "Place on items to log all calls and properties fetch from it. Helpful for debugging.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "keywords": [
     "bun",
     "bunjs",
