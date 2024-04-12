@@ -1,5 +1,4 @@
-export class Hello {
-  static hello() {
-    return "Hello World!";
-  }
-}
+import { logProxy } from "./proxy/LogProxy";
+import { callProxy } from "./proxy/CallProxy";
+
+export { logProxy, callProxy };

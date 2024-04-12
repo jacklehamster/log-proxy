@@ -1,3 +1,3 @@
-import { Hello } from "bun-template";
+import { logProxy } from "log-proxy";
 
-export { Hello };
+export { logProxy };

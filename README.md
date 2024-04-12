@@ -1,27 +1,15 @@
-# bun-template
+# log-proxy
 
-[![npm version](https://badge.fury.io/js/bun-template.svg)](https://www.npmjs.com/package/bun-template)
+[![npm version](https://badge.fury.io/js/log-proxy.svg)](https://www.npmjs.com/package/log-proxy)
 
-Bun template for creating projects using bunjs
+Place on items to log all calls and properties fetch from it. Helpful for debugging.
 
-![](https://jacklehamster.github.io/bun-template/icon.png)
-## Install bun
 
-https://bun.sh/
-
-```bash
-curl -fsSL https://bun.sh/install | bash
-```
-
-## Commands
-
-- **start**: "bun run index.ts",
-- **bundle**: "bun run bundler/bundler.ts",
 
 ## Run example
 
-[https://jacklehamster.github.io/bun-template/example/](https://jacklehamster.github.io/bun-template/example/)
+[https://jacklehamster.github.io/log-proxy/example/](https://jacklehamster.github.io/log-proxy/example/)
 
 ## Github Source
 
-[https://github.com/jacklehamster/bun-template/](https://github.com/jacklehamster/bun-template/)
+[https://github.com/jacklehamster/log-proxy/](https://github.com/jacklehamster/log-proxy/)
